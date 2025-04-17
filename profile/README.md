@@ -1,7 +1,34 @@
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat&logo=gradio&logoColor=white)
+
+# 엣취 - 엣지있게 취업하기
+
+🤧 **엣취**는 IT 분야 비기너를 위한 취업 준비를 돕는 **맞춤형 구직 도우미**입니다.
+
+🎯 사용자의 이력서를 **분석**하여 다음 기능을 제공합니다:
+- 📝 이력서 피드백
+- ✉️ 최신 채용 공고 추천
+- 💼 직무 추천
+- 🗺️ 성장 로드맵 제시
+- 🎓 강의 추천
+
+✨ **이력서 작성**을 돕기 위해 다음의 부가 기능을 제공합니다:
+- 🖨️ 이력서를 PDF로 출력
+- 🛠️ 요즘 핫한 기술 스택 리스트업
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app)](https://github.com/hire-me-asap/hire-me-app)
+
+---
+
 ![](resources/배너.png)
-
-# 🤝 구성원
-
 <table>
     <tr>
         <td><img src="https://avatars.githubusercontent.com/u/125528101?v=4"></td>
@@ -26,7 +53,3 @@
         <th><a href="https://github.com/wnsdlfrns">🐅 최준일</a></th>
     </tr>
 </table>
-
-# 🛠️ 프로젝트
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app)](https://github.com/hire-me-asap/hire-me-app)
