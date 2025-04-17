@@ -23,6 +23,8 @@
 - 🖨️ 이력서를 PDF로 출력
 - 🛠️ 요즘 핫한 기술 스택 리스트업
 
+엣취와 함께, 엣지있게 취업할 준비가 되셨나요? [가보자고!](https://github.com/hire-me-asap/hire-me-app)
+
 ---
 
 ![](resources/배너.png)
