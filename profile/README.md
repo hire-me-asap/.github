@@ -1,4 +1,7 @@
 ![](resources/배너.png)
+
+# 🤝 구성원
+
 <table>
     <tr>
         <td><img src="https://avatars.githubusercontent.com/u/125528101?v=4"></td>
@@ -23,3 +26,7 @@
         <th><a href="https://github.com/wnsdlfrns">🐅 최준일</a></th>
     </tr>
 </table>
+
+# 🛠️ 프로젝트
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app)](https://github.com/hire-me-asap/hire-me-app)
