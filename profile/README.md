@@ -23,9 +23,11 @@
 - 🖨️ 이력서를 PDF로 출력
 - 🛠️ 요즘 핫한 기술 스택 리스트업
 
-엣취와 함께, 엣지있게 취업할 준비가 되셨나요? [가보자고!](https://github.com/hire-me-asap/hire-me-app)
+**엣취**와 함께, 엣지있게 취업할 준비가 되셨나요? [가보자고!](https://github.com/hire-me-asap/hire-me-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap/hire-me-app)
+
+*발표자료는 [여기](https://drive.google.com/file/d/1rhg38bdqVMDPKgQkARrZmsm3lSQhQDhT/view?usp=sharing)에서 볼 수 있습니다!*
 
 ---
 
