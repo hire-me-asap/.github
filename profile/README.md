@@ -8,7 +8,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-# 엣취 - 엣지있게 취업하기
+[<img align="center" height="60px" src="resources/엣취-타이틀.png">](#)
 
 🤧 **엣취**는 IT 분야 비기너를 위한 취업 준비를 돕는 **맞춤형 구직 도우미**입니다.
 
