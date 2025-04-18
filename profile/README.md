@@ -25,6 +25,9 @@
 
 엣취와 함께, 엣지있게 취업할 준비가 되셨나요? [가보자고!](https://github.com/hire-me-asap/hire-me-app)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap/hire-me-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hire-me-asap&repo=privacy-policy&theme=graywhite&show_owner=true)](https://github.com/hire-me-asap/hire-me-app)
+
 ---
 
 ![](resources/배너.png)
